@@ -1,3 +1,4 @@
+console.log('run helpers')
 const chai = require('chai')
 global.expect = chai.expect
 const fs = require('file-system')
